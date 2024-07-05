@@ -20,7 +20,4 @@ const bytes = [
   for (const fila of bytes) {
     const esPar = bytes_a_comprobar(fila);
     console.log(`Fila: ${fila.join(', ')} - Paridad: ${esPar ? 'Par' : 'Impar'}`);
-  }
-  
-
-  
+  }  
