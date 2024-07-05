@@ -1,0 +1,44 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+  <alumno id="1">
+    <nombre>Juan Perez</nombre>
+    <edad>18</edad>
+    <curso>12</curso>
+  </alumno>
+  <alumno id="2">
+    <nombre>Maria Lopez</nombre>
+    <edad>17</edad>
+    <curso>11</curso>
+  </alumno>
+  <alumno id="3">
+    <nombre>Pedro Gomez</nombre>
+    <edad>19</edad>
+    <curso>12</curso>
+  </alumno>
+</alumnos> 
+
+{
+"alunmnos" :[
+  {
+    "id": 1,
+    "nombre": "Juan Perez",
+    "edad": 18,
+    "curso": 12
+  },
+  {
+    "id": 2,
+    "nombre": "Maria Lopez",
+    "edad": 17,
+    "curso": 11
+  },
+  {
+    "id": 3,
+    "nombre": "Pedro Gomez",
+    "edad": 19,
+    "curso": 12
+  }
+]
+}
+
